@@ -1,6 +1,6 @@
-# Adidas US Sales Dataset (2020-2021)
+# US Adidas Sales Analytics (2020-2021)
 ## Project Description:
-This project contains end-to-end ETL & Power BI project analyzing US Adidas Sales Data (2020-2021). The project integrates Jupyter Notebook (ETL), XAMPP (data storage), and Power BI (visualization & analysis) to provide actionable business insights.
+Developed an end-to-end ETL pipeline to analyze sales performance and generate actionable insights through interactive dashboards.
 ## Dataset Used:
 - <a href = "https://github.com/Jeevanabishek/Adidas-US-Sales-Dataset_2020-2021_/blob/main/Adidas%20US%20Sales%20Datasets.xlsx">Dataset</a>
 ## Power BI File:
